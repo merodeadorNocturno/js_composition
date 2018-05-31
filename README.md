@@ -11,3 +11,7 @@ An animated demonstration of js composition.
 [Try not tu use if's](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb)
 
 [GameLoop with Javascript](https://isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing)
+
+[Playful JS](http://www.playfuljs.com/)
+
+[Javascript Game Developers](https://www.youtube.com/watch?v=avwDj3KRuLc)

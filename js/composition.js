@@ -134,7 +134,7 @@ const myCanvas = document.getElementById('myCanvas').getContext('2d');
 const mainLoop = (timestamp) => {
   const maxFPS = 60;
   
-  if (timestamp < lastFrameTimeMs + 1000 / maxFPS) {
+  if (timestamp < lastFrameTimeMs + getTimeStep()) {
     requestAnimationFrame(mainLoop);
     return;
   }

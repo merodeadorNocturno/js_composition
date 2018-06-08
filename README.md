@@ -8,6 +8,6 @@ An animated demonstration of js composition.
 
 [Composition vs Inheritance](https://www.youtube.com/watch?v=dYUZiJEy0JE)
 
-[Try not tu use if's](https://hackernoon.com/rethinking-javascript-the-if-statement-b158a61cd6cb)
+[Game programers in JS](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
 [GameLoop with Javascript](https://isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing)

@@ -24,6 +24,15 @@ An animated demonstration of js composition.
 
 [Physics Simulations with Javascript](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 
+## Lambda Calculus
+
+Variadic Currying
+Variadic => Variable arity
+Currying => Traduce la evaluación de una función que acepta un tuple a una secuencia de funciones.
+Tuple => Múltiples argumentos
+
+High Order Functions.  Procedimientos que aceptan parámetros que también son procedimientos y devuleven una función
+
 
 ## Composition solves
 

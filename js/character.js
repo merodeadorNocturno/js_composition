@@ -29,6 +29,13 @@ class Mage extends Character {
   }
 }
 
+// class Elf extends Character {
+//   constructor(name) {
+//     super(name);
+//     this.mana = 100;
+//   }
+// }
+
 const zapper = new Mage('Gandalf');
 const thumper = new Knight('Lancelot');
 
